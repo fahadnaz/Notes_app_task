@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Initialize Notes App",
+			"type": "shell",
+			"command": "npm init -y && npm install express mongoose cors dotenv",
+			"group": "build"
+		}
+	]
+}
