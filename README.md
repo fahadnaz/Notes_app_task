@@ -1,3 +1,4 @@
+
 # Notes App
 
 A simple note-taking application built with React and Express.js + MongoDB.
@@ -123,9 +124,4 @@ curl -X POST http://localhost:5000/api/notes \
 - Vite
 - CSS3
 
-## Notes
 
-- No user authentication is implemented (public API)
-- All data is stored in MongoDB
-- Frontend and Backend run on separate ports (3000 and 5000)
-- CORS is enabled for local development
